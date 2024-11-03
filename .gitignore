@@ -1,0 +1,14 @@
+# Ignore build output
+/build/
+
+# Ignore NetBeans project files
+nbproject/private/
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
